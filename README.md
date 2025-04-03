@@ -1,6 +1,6 @@
 # OpenConnectorGraphics
 
-![Preview](preview.png)
+![Preview](Preview.png)
 
 A collection of free-to-use vector drawings of common connector types and ports.  
 Because I never found a good set of high-resolution, open-source drawings of connectors that all match, I drew them myself. Please enjoy!  
