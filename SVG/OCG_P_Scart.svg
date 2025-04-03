@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="163.8938"
+   height="49.133892"
+   viewBox="0 0 163.8938 49.133893"
+   xml:space="preserve"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><title
+     id="title1">Open Connector Graphics</title><defs
+     id="defs6"><linearGradient
+       id="linearGradient5590"><stop
+         id="stop5592"
+         offset="0"
+         style="stop-color:#a91616;stop-opacity:1;" /></linearGradient><linearGradient
+       id="linearGradient5660"><stop
+         id="stop5662"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" /></linearGradient><style
+       type="text/css"
+       id="style1">
+	.st0{fill:none;stroke:#000000;stroke-width:7;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
+</style></defs><g
+     id="g2466"
+     transform="matrix(1.3333333,0,0,-1.3333333,71.518893,2705.4678)"
+     style="display:inline">
+
+<path
+   d="M -50.298506,2028.7259 H 66.923123 c 1.632,0 2.41564,-1.2744 1.74368,-2.8369 l -6.55588,-15.2128 v -14.9326 c 0,-1.7118 -1.3336,-3.1181 -2.96569,-3.1181 H -50.298506 c -1.63162,0 -2.96564,1.4063 -2.96564,3.1181 v 29.8664 c 3.8e-4,1.7125 1.3344,3.1159 2.96564,3.1159 z"
+   style="fill:#333333;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none"
+   id="path1615"
+   clip-path="none" /><rect
+   width="2.0846467"
+   height="10.812996"
+   x="33.236622"
+   y="-2023.9629"
+   style="fill:#f9d640;fill-opacity:1;stroke:#000000;stroke-width:0.749999;stroke-dasharray:none"
+   id="rect1619"
+   transform="scale(1,-1)"
+   clip-path="none" /><rect
+   width="2.0846467"
+   height="10.812996"
+   x="22.495472"
+   y="-2023.9629"
+   style="fill:#f9d640;fill-opacity:1;stroke:#000000;stroke-width:0.749999;stroke-dasharray:none"
+   id="rect1621"
+   transform="scale(1,-1)"
+   clip-path="none" /><rect
+   width="2.0846467"
+   height="10.812996"
+   x="54.716484"
+   y="-2023.9629"
+   style="fill:#f9d640;fill-opacity:1;stroke:#000000;stroke-width:0.749999;stroke-dasharray:none"
+   id="rect1623"
+   transform="scale(1,-1)"
+   clip-path="none" /><rect
+   width="2.0846467"
+   height="10.812996"
+   x="43.97533"
+   y="-2023.9629"
+   style="fill:#f9d640;fill-opacity:1;stroke:#000000;stroke-width:0.749999;stroke-dasharray:none"
+   id="rect1625"
+   transform="scale(1,-1)"
+   clip-path="none" /><rect
+   width="2.0846467"
+   height="10.812996"
+   x="11.754383"
+   y="-2023.9629"
+   style="fill:#f9d640;fill-opacity:1;stroke:#000000;stroke-width:0.749999;stroke-dasharray:none"
+   id="rect1627"
+   transform="scale(1,-1)"
+   clip-path="none" /><rect
+   width="2.0846467"
+   height="10.812996"
+   x="1.0160407"
+   y="-2023.9629"
+   style="fill:#f9d640;fill-opacity:1;stroke:#000000;stroke-width:0.749999;stroke-dasharray:none"
+   id="rect1629"
+   transform="scale(1,-1)"
+   clip-path="none" /><rect
+   width="2.0846467"
+   height="10.812996"
+   x="-9.7251091"
+   y="-2023.9629"
+   style="fill:#f9d640;fill-opacity:1;stroke:#000000;stroke-width:0.749999;stroke-dasharray:none"
+   id="rect1631"
+   transform="scale(1,-1)"
+   clip-path="none" /><rect
+   width="2.0846467"
+   height="10.812996"
+   x="-20.466196"
+   y="-2023.9629"
+   style="fill:#f9d640;fill-opacity:1;stroke:#000000;stroke-width:0.749999;stroke-dasharray:none"
+   id="rect1633"
+   transform="scale(1,-1)"
+   clip-path="none" /><rect
+   width="2.0846467"
+   height="10.812996"
+   x="-31.206125"
+   y="-2023.9629"
+   style="fill:#f9d640;fill-opacity:1;stroke:#000000;stroke-width:0.749999;stroke-dasharray:none"
+   id="rect1635"
+   transform="scale(1,-1)"
+   clip-path="none" /><rect
+   width="2.0846467"
+   height="10.812996"
+   x="-41.94685"
+   y="-2023.9629"
+   style="fill:#f9d640;fill-opacity:1;stroke:#000000;stroke-width:0.749999;stroke-dasharray:none"
+   id="rect1637"
+   transform="scale(1,-1)"
+   clip-path="none" /><rect
+   width="2.0846467"
+   height="10.811744"
+   x="27.86681"
+   y="-2008.2013"
+   style="fill:#f9d640;fill-opacity:1;stroke:#000000;stroke-width:0.749999;stroke-dasharray:none"
+   id="rect1639"
+   transform="scale(1,-1)"
+   clip-path="none" /><rect
+   width="2.0846467"
+   height="10.811744"
+   x="17.126148"
+   y="-2008.2013"
+   style="fill:#f9d640;fill-opacity:1;stroke:#000000;stroke-width:0.749999;stroke-dasharray:none"
+   id="rect1641"
+   transform="scale(1,-1)"
+   clip-path="none" /><rect
+   width="2.0846467"
+   height="10.811744"
+   x="49.346672"
+   y="-2008.2013"
+   style="fill:#f9d640;fill-opacity:1;stroke:#000000;stroke-width:0.749999;stroke-dasharray:none"
+   id="rect1643"
+   transform="scale(1,-1)"
+   clip-path="none" /><rect
+   width="2.0846467"
+   height="10.811744"
+   x="38.605946"
+   y="-2008.2013"
+   style="fill:#f9d640;fill-opacity:1;stroke:#000000;stroke-width:0.749999;stroke-dasharray:none"
+   id="rect1645"
+   transform="scale(1,-1)"
+   clip-path="none" /><rect
+   width="2.0846467"
+   height="10.811744"
+   x="6.3846321"
+   y="-2008.2013"
+   style="fill:#f9d640;fill-opacity:1;stroke:#000000;stroke-width:0.749999;stroke-dasharray:none"
+   id="rect1647"
+   transform="scale(1,-1)"
+   clip-path="none" /><rect
+   width="2.0846467"
+   height="10.811744"
+   x="-4.3549385"
+   y="-2008.2013"
+   style="fill:#f9d640;fill-opacity:1;stroke:#000000;stroke-width:0.749999;stroke-dasharray:none"
+   id="rect1649"
+   transform="scale(1,-1)"
+   clip-path="none" /><rect
+   width="2.0846467"
+   height="10.811744"
+   x="-15.096447"
+   y="-2008.2013"
+   style="fill:#f9d640;fill-opacity:1;stroke:#000000;stroke-width:0.749999;stroke-dasharray:none"
+   id="rect1651"
+   transform="scale(1,-1)"
+   clip-path="none" /><rect
+   width="2.0846467"
+   height="10.811744"
+   x="-25.834787"
+   y="-2008.2013"
+   style="fill:#f9d640;fill-opacity:1;stroke:#000000;stroke-width:0.749999;stroke-dasharray:none"
+   id="rect1653"
+   transform="scale(1,-1)"
+   clip-path="none" /><rect
+   width="2.0846467"
+   height="10.811744"
+   x="-36.575085"
+   y="-2008.2013"
+   style="fill:#f9d640;fill-opacity:1;stroke:#000000;stroke-width:0.749999;stroke-dasharray:none"
+   id="rect1655"
+   transform="scale(1,-1)"
+   clip-path="none" /><rect
+   width="2.0846467"
+   height="10.811744"
+   x="-47.315441"
+   y="-2008.2013"
+   style="fill:#f9d640;fill-opacity:1;stroke:#000000;stroke-width:0.749999;stroke-dasharray:none"
+   id="rect1657"
+   transform="scale(1,-1)"
+   clip-path="none" />
+
+
+
+
+
+
+<style
+   type="text/css"
+   id="style1-5">
+	.st0{fill:none;stroke:#000;stroke-width:2;}
+	.st1{fill:#fff;stroke:#000;stroke-width:2;stroke-linejoin:round;}
+	.st2{font-family:Liberation Sans,Arial;}
+	.st3{font-size:17px;}
+</style>
+
+
+
+
+
+
+
+
+
+
+<!-- Outer cylindrical part --><!-- Inner optical port --><!-- Optical emitter (glowing red light) --><!-- Connector back end --><!-- Detail lines for depth --><!-- Device Panel --><!-- TOSLINK Port Cutout --><!-- Inner Optical Port --><!-- Optical Emitter (glowing red light) --><!-- Protective Cover --><!-- Detail Lines for Depth --></g><metadata
+     id="metadata1"><rdf:RDF><cc:Work
+         rdf:about=""><dc:title>Open Connector Graphics</dc:title><dc:date>03/04/2025</dc:date><dc:creator><cc:Agent><dc:title>Wikke Andeweg</dc:title></cc:Agent></dc:creator><dc:rights><cc:Agent><dc:title>Creative Commons Attribution 4.0 International</dc:title></cc:Agent></dc:rights><dc:source>https://github.com/WyzzyMoon/OpenConnectorGraphics</dc:source></cc:Work></rdf:RDF></metadata></svg>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="53.957108"
+   height="220"
+   viewBox="0 0 53.957108 220"
+   xml:space="preserve"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs6"><linearGradient
+       id="linearGradient5590"><stop
+         id="stop5592"
+         offset="0"
+         style="stop-color:#a91616;stop-opacity:1;" /></linearGradient><linearGradient
+       id="linearGradient5660"><stop
+         id="stop5662"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" /></linearGradient><style
+       type="text/css"
+       id="style1">
+	.st0{fill:none;stroke:#000000;stroke-width:7;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
+</style></defs><g
+     id="g2466"
+     transform="matrix(1.3333333,0,0,-1.3333333,2389.2459,2611.3278)"
+     style="display:inline"><path
+   d="M 84.031,386.009 H 39.658 v 42.852 h 44.373 z"
+   style="fill:#d1d3d4;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.01687;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+   id="path2624"
+   clip-path="none"
+   transform="matrix(0.73766219,0,0,0.73745789,-1816.9703,1641.6667)" /><path
+   d="m 55.749,406.056 h -9.045 v 7.007 h 9.045 z"
+   style="fill:#939598;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.01687;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+   id="path2626"
+   clip-path="none"
+   transform="matrix(0.73766219,0,0,0.73745789,-1816.9703,1641.6667)" /><path
+   d="m 76.898,406.056 h -9.045 v 7.007 h 9.045 z"
+   style="fill:#939598;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.01687;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+   id="path2628"
+   clip-path="none"
+   transform="matrix(0.73766219,0,0,0.73745789,-1816.9703,1641.6667)" /><path
+   d="m -1784.0779,1131.9145 v -5.0737 h 1.9887 v -4.6032 h -1.9887 v -15.2204 h 1.9887 v -6.7042"
+   style="fill:none;stroke:#000000;stroke-width:0.750003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+   id="path2632"
+   clip-path="none"
+   transform="translate(12.727922,826.01924)" /><path
+   d="m -1764.6485,1100.313 v 0 h -39.6774 v 0 -0.6368 -0.012 -30.8166 l 8.3981,-30.986 h 11.4383 v 0.01 -0.01 h 11.4391 l 8.3981,30.986 v 30.8166 0.012 z"
+   style="fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.999998"
+   id="path2640"
+   clip-path="none"
+   transform="translate(12.727922,826.01924)" /><path
+   d="m -1784.5218,1087.9651 -1.7371,-3.0076 h 1.2394 v -15.3744 l -3.1626,2.9938 c -0.2044,0.2546 -0.348,0.5882 -0.3556,0.9309 0,1.3868 0,2.2105 -8e-4,2.5144 0.5851,0.2052 1.0084,0.7576 1.0084,1.4134 0,0.8305 -0.674,1.5045 -1.5046,1.5045 -0.8313,0 -1.5045,-0.674 -1.5045,-1.5045 0,-0.6558 0.4225,-1.2082 1.0076,-1.4134 l -8e-4,-2.4848 c 0,-0.6732 0.3701,-1.3791 0.8032,-1.8282 -0.013,0.012 -0.027,0.025 0,-8e-4 0.011,-0.01 3.3548,-3.1762 3.3548,-3.1762 0.2037,-0.2538 0.3465,-0.5867 0.3549,-0.9294 v -1.7393 c -1.1489,-0.231 -2.0152,-1.2454 -2.0152,-2.462 0,-1.3875 1.1254,-2.5129 2.5121,-2.5129 1.3876,0 2.5122,1.1254 2.5122,2.5129 0,1.2173 -0.8663,2.2317 -2.016,2.462 v 1.7089 c 0,0 0,0.01 0,0.013 v 3.7796 c 0.01,0.3419 0.1513,0.6747 0.3557,0.9285 0,0 3.3441,3.1656 3.3548,3.1755 0.027,0.025 0.013,0.013 0,0 0.4331,0.4491 0.8024,1.155 0.8024,1.829 l -7e-4,2.3944 h 1.0091 v 3.0083 h -3.0084 v -3.0083 h 1.0069 c 0,0 -8e-4,-0.6307 -8e-4,-2.424 -0.01,-0.3427 -0.1512,-0.6763 -0.3556,-0.9309 l -3.1634,-2.9946 v 11.6146 h 1.2417 z"
+   style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.999998"
+   id="path4112"
+   clip-path="none"
+   transform="translate(12.727922,826.01924)" /><rect
+   style="fill:#231f20;fill-opacity:1;stroke:none;stroke-width:0.750001;stroke-dasharray:none"
+   id="rect137"
+   width="12.849434"
+   height="70.460838"
+   x="-1778.1879"
+   y="-1863.8867"
+   transform="scale(1,-1)"
+   clip-path="none" /><rect
+   style="fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.750001;stroke-dasharray:none"
+   id="rect168"
+   width="12.849434"
+   height="70.460838"
+   x="-1778.1879"
+   y="-1863.8867"
+   transform="scale(1,-1)"
+   clip-path="none" />
+
+
+
+
+
+
+
+
+<style
+   type="text/css"
+   id="style1-5">
+	.st0{fill:none;stroke:#000;stroke-width:2;}
+	.st1{fill:#fff;stroke:#000;stroke-width:2;stroke-linejoin:round;}
+	.st2{font-family:Liberation Sans,Arial;}
+	.st3{font-size:17px;}
+</style>
+
+
+
+
+
+
+
+
+
+
+<!-- Outer cylindrical part --><!-- Inner optical port --><!-- Optical emitter (glowing red light) --><!-- Connector back end --><!-- Detail lines for depth --><!-- Device Panel --><!-- TOSLINK Port Cutout --><!-- Inner Optical Port --><!-- Optical Emitter (glowing red light) --><!-- Protective Cover --><!-- Detail Lines for Depth --></g></svg>

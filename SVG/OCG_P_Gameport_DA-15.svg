@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="128.02794"
+   height="43.000793"
+   viewBox="0 0 128.02794 43.000794"
+   xml:space="preserve"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><title
+     id="title1">Open Connector Graphics</title><defs
+     id="defs6"><linearGradient
+       id="linearGradient5590"><stop
+         id="stop5592"
+         offset="0"
+         style="stop-color:#a91616;stop-opacity:1;" /></linearGradient><linearGradient
+       id="linearGradient5660"><stop
+         id="stop5662"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" /></linearGradient><style
+       type="text/css"
+       id="style1">
+	.st0{fill:none;stroke:#000000;stroke-width:7;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
+</style></defs><g
+     id="g2466"
+     transform="matrix(1.3333333,0,0,-1.3333333,-2012.6478,2701.1536)"
+     style="display:inline">
+
+
+
+
+
+
+
+
+<style
+   type="text/css"
+   id="style1-5">
+	.st0{fill:none;stroke:#000;stroke-width:2;}
+	.st1{fill:#fff;stroke:#000;stroke-width:2;stroke-linejoin:round;}
+	.st2{font-family:Liberation Sans,Arial;}
+	.st3{font-size:17px;}
+</style>
+
+
+
+
+
+
+
+
+
+
+<path
+   d="m 1605.1314,1997.9537 c 0,-2.1889 -1.7749,-3.964 -3.9665,-3.964 h -87.3373 c -2.1902,0 -3.9666,1.7751 -3.9666,3.964 v 23.5713 c 0,2.1901 1.7764,3.9653 3.9666,3.9653 h 87.3379 c 2.1916,0 3.9666,-1.7752 3.9666,-3.9653 v -23.5713 z"
+   style="fill:#d1d3d4;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none"
+   id="path2271"
+   clip-path="none" /><path
+   id="path213"
+   clip-path="none"
+   style="fill:#d1d3d4;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.75;stroke-dasharray:none"
+   d="m 1531.8137,2020.7766 c -1.7216,0 -3.3379,-0.7625 -4.434,-2.0918 -1.0946,-1.3286 -1.5337,-3.0614 -1.2056,-4.752 l 2.0142,-10.3579 c 0.5547,-2.8452 3.0595,-4.9101 5.9575,-4.9101 h 18.0483 10.6817 18.0483 c 2.898,0 5.4035,2.0649 5.9575,4.9101 l 2.0156,10.3579 c 0.3281,1.6906 -0.1132,3.4234 -1.2085,4.752 -1.0953,1.3293 -2.711,2.0918 -4.4326,2.0918 h -18.0468 -15.3472 z" /><path
+   id="path217"
+   clip-path="none"
+   style="fill:#d4aa00;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.75;stroke-dasharray:none"
+   d="m 1531.8504,2019.5095 c -1.3683,0 -2.6535,-0.6041 -3.523,-1.6611 -0.8714,-1.0555 -1.2192,-2.4329 -0.958,-3.7764 l 2.0142,-10.3564 c 0.4462,-2.2927 2.4642,-3.9566 4.7988,-3.9566 h 18.0469 10.6831 18.0483 c 2.3339,0 4.3521,1.6639 4.7974,3.9566 l 2.0156,10.3564 c 0.2612,1.3435 -0.089,2.7209 -0.9595,3.7764 -0.8695,1.057 -2.1531,1.6611 -3.5214,1.6611 h -18.0469 -15.3487 z" /><ellipse
+   cx="1517.2679"
+   cy="-2009.7393"
+   style="fill:none;stroke:#000000;stroke-width:0.750003;stroke-dasharray:none"
+   id="circle2309"
+   transform="scale(1,-1)"
+   rx="3.3412499"
+   ry="3.3401282"
+   clip-path="none" /><ellipse
+   cx="1597.7244"
+   cy="-2009.7393"
+   style="fill:none;stroke:#000000;stroke-width:0.750003;stroke-dasharray:none"
+   id="circle2311"
+   transform="scale(1,-1)"
+   rx="3.3412499"
+   ry="3.3401282"
+   clip-path="none" /><ellipse
+   cx="1546.6555"
+   cy="-2013.4473"
+   style="fill:#000000;stroke:#000000;stroke-width:0.75;stroke-dasharray:none"
+   id="circle2195"
+   transform="scale(1,-1)"
+   rx="1.4808865"
+   ry="1.4803892"
+   clip-path="none" /><ellipse
+   cx="1539.3655"
+   cy="-2013.4473"
+   style="fill:#000000;stroke:#000000;stroke-width:0.75;stroke-dasharray:none"
+   id="circle2197"
+   transform="scale(1,-1)"
+   rx="1.4802254"
+   ry="1.4797283"
+   clip-path="none" /><ellipse
+   cx="1532.076"
+   cy="-2013.4473"
+   style="fill:#000000;stroke:#000000;stroke-width:0.75;stroke-dasharray:none"
+   id="circle2199"
+   transform="scale(1,-1)"
+   rx="1.4808865"
+   ry="1.4803892"
+   clip-path="none" /><ellipse
+   cx="1543.0103"
+   cy="-2006.0856"
+   style="fill:#000000;stroke:#000000;stroke-width:0.75;stroke-dasharray:none"
+   id="circle2203"
+   transform="scale(1,-1)"
+   rx="1.4808865"
+   ry="1.4803892"
+   clip-path="none" /><ellipse
+   cx="1535.7222"
+   cy="-2006.0856"
+   style="fill:#000000;stroke:#000000;stroke-width:0.75;stroke-dasharray:none"
+   id="circle2205"
+   transform="scale(1,-1)"
+   rx="1.4808865"
+   ry="1.4803892"
+   clip-path="none" /><path
+   d="m 1583.1025,2014.9276 c -0.8198,0 -1.4836,-0.6635 -1.4836,-1.481 0,-0.8169 0.6638,-1.4797 1.4836,-1.4797 0.8151,0 1.4776,0.6622 1.4776,1.4797 0,0.8175 -0.6625,1.481 -1.4776,1.481 z"
+   style="fill:#000000;stroke:#000000;stroke-width:0.75;stroke-dasharray:none"
+   id="path2209"
+   clip-path="none" /><ellipse
+   cx="1579.4532"
+   cy="-2006.0856"
+   style="fill:#000000;stroke:#000000;stroke-width:0.75;stroke-dasharray:none"
+   id="circle2211"
+   transform="scale(1,-1)"
+   rx="1.4802254"
+   ry="1.4797283"
+   clip-path="none" /><ellipse
+   cx="1553.9443"
+   cy="-2013.4479"
+   style="fill:#000000;stroke:#000000;stroke-width:0.75;stroke-dasharray:none"
+   id="circle2213"
+   transform="scale(1,-1)"
+   rx="1.4808865"
+   ry="1.4803892"
+   clip-path="none" /><path
+   d="m 1561.2316,2014.9276 c 0.8191,0 1.4822,-0.6628 1.4822,-1.4804 0,-0.8162 -0.6631,-1.479 -1.4822,-1.479 -0.8151,0 -1.4789,0.6628 -1.4789,1.479 0,0.8176 0.6638,1.4804 1.4789,1.4804 z"
+   style="fill:#000000;stroke:#000000;stroke-width:0.75;stroke-dasharray:none"
+   id="path2215"
+   clip-path="none" /><path
+   d="m 1568.5204,2014.9283 c 0.8178,0 1.4835,-0.6635 1.4835,-1.4811 0,-0.8168 -0.6657,-1.479 -1.4835,-1.479 -0.8139,0 -1.4783,0.6622 -1.4783,1.479 0,0.8176 0.6644,1.4811 1.4783,1.4811 z"
+   style="fill:#000000;stroke:#000000;stroke-width:0.75;stroke-dasharray:none"
+   id="path2217"
+   clip-path="none" /><ellipse
+   cx="1575.8125"
+   cy="-2013.4479"
+   style="fill:#000000;stroke:#000000;stroke-width:0.75;stroke-dasharray:none"
+   id="circle2219"
+   transform="scale(1,-1)"
+   rx="1.4808865"
+   ry="1.4803892"
+   clip-path="none" /><ellipse
+   cx="1550.299"
+   cy="-2006.0869"
+   style="fill:#000000;stroke:#000000;stroke-width:0.75;stroke-dasharray:none"
+   id="circle2221"
+   transform="scale(1,-1)"
+   rx="1.4808865"
+   ry="1.4803892"
+   clip-path="none" /><ellipse
+   cx="1557.5884"
+   cy="-2006.0869"
+   style="fill:#000000;stroke:#000000;stroke-width:0.75;stroke-dasharray:none"
+   id="circle2223"
+   transform="scale(1,-1)"
+   rx="1.4808865"
+   ry="1.4803892"
+   clip-path="none" /><ellipse
+   cx="1564.8765"
+   cy="-2006.0869"
+   style="fill:#000000;stroke:#000000;stroke-width:0.75;stroke-dasharray:none"
+   id="circle2225"
+   transform="scale(1,-1)"
+   rx="1.4808865"
+   ry="1.4803892"
+   clip-path="none" /><path
+   d="m 1572.169,2007.5673 c 0.8165,0 1.4776,-0.6635 1.4776,-1.4804 0,-0.8168 -0.6611,-1.4804 -1.4776,-1.4804 -0.8191,0 -1.4809,0.6636 -1.4809,1.4804 0,0.8169 0.6618,1.4804 1.4809,1.4804 z"
+   style="fill:#000000;stroke:#000000;stroke-width:0.75;stroke-dasharray:none"
+   id="path2227"
+   clip-path="none" /><!-- Outer cylindrical part --><!-- Inner optical port --><!-- Optical emitter (glowing red light) --><!-- Connector back end --><!-- Detail lines for depth --><!-- Device Panel --><!-- TOSLINK Port Cutout --><!-- Inner Optical Port --><!-- Optical Emitter (glowing red light) --><!-- Protective Cover --><!-- Detail Lines for Depth --></g><metadata
+     id="metadata1"><rdf:RDF><cc:Work
+         rdf:about=""><dc:title>Open Connector Graphics</dc:title><dc:date>03/04/2025</dc:date><dc:creator><cc:Agent><dc:title>Wikke Andeweg</dc:title></cc:Agent></dc:creator><dc:rights><cc:Agent><dc:title>Creative Commons Attribution 4.0 International</dc:title></cc:Agent></dc:rights><dc:source>https://github.com/WyzzyMoon/OpenConnectorGraphics</dc:source></cc:Work></rdf:RDF></metadata></svg>

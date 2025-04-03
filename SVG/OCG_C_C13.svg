@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="97.14341"
+   height="211.62563"
+   viewBox="0 0 97.143413 211.62563"
+   xml:space="preserve"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><title
+     id="title1">Open Connector Graphics</title><defs
+     id="defs6"><linearGradient
+       id="linearGradient5590"><stop
+         id="stop5592"
+         offset="0"
+         style="stop-color:#a91616;stop-opacity:1;" /></linearGradient><linearGradient
+       id="linearGradient5660"><stop
+         id="stop5662"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" /></linearGradient><style
+       type="text/css"
+       id="style1">
+	.st0{fill:none;stroke:#000000;stroke-width:7;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
+</style></defs><g
+     id="g2466"
+     transform="matrix(1.3333333,0,0,-1.3333333,-3092.6287,2611.083)"
+     style="display:inline">
+
+
+
+
+
+
+
+
+<style
+   type="text/css"
+   id="style1-5">
+	.st0{fill:none;stroke:#000;stroke-width:2;}
+	.st1{fill:#fff;stroke:#000;stroke-width:2;stroke-linejoin:round;}
+	.st2{font-family:Liberation Sans,Arial;}
+	.st3{font-size:17px;}
+</style>
+
+
+
+
+
+
+
+
+
+
+<rect
+   style="fill:#333333;fill-opacity:1;stroke:#000000;stroke-width:0.749999"
+   id="rect81"
+   width="19.092522"
+   height="42.087959"
+   x="2346.3811"
+   y="-1842.0383"
+   transform="scale(1,-1)"
+   clip-path="none" /><rect
+   style="display:inline;fill:#333333;fill-opacity:1;stroke:#000000;stroke-width:0.75"
+   id="rect160"
+   width="28.419697"
+   height="10.6875"
+   x="2341.7173"
+   y="-1824.3091"
+   ry="1.6875"
+   transform="scale(1,-1)"
+   clip-path="none" /><rect
+   style="display:inline;fill:#333333;fill-opacity:1;stroke:#000000;stroke-width:0.75"
+   id="rect161"
+   width="38.444237"
+   height="10.6875"
+   x="2336.7051"
+   y="-1833.3091"
+   ry="1.0832411"
+   transform="scale(1,-1)"
+   clip-path="none" /><rect
+   style="display:inline;fill:#333333;fill-opacity:1;stroke:#000000;stroke-width:0.75"
+   id="rect36"
+   width="64.446854"
+   height="53.108265"
+   x="2323.7039"
+   y="-1957.9344"
+   transform="scale(1,-1)"
+   clip-path="none" /><rect
+   style="display:inline;fill:#333333;fill-opacity:1;stroke:#000000;stroke-width:0.75"
+   id="rect158"
+   width="34.991028"
+   height="53.236038"
+   x="2338.4316"
+   y="-1957.9346"
+   transform="scale(1,-1)"
+   clip-path="none" /><path
+   id="rect38"
+   style="display:inline;fill:#333333;fill-opacity:1;stroke:#000000;stroke-width:0.75"
+   d="m 2354.2031,1904.8271 -2.9942,-0.032 v -0.019 l -31.0473,-0.3252 c 0,-54.6342 17.9733,-38.1369 14.959,-57.813 -0.6692,-4.368 -7.198,-6.8275 -7.0108,-11.2514 0.1295,-3.0595 16.125,-3.8438 16.125,-3.8438 l 25.1338,0.097 c 0,0 14.2536,0.8565 14.376,3.7471 0.1872,4.4239 -6.3416,6.8834 -7.0108,11.2514 -3.0143,19.6761 14.959,3.1788 14.959,57.813 l -31.0473,0.3252 v 0.019 l -2.9942,0.032 h -1.7241 z"
+   clip-path="none" /><!-- Outer cylindrical part --><!-- Inner optical port --><!-- Optical emitter (glowing red light) --><!-- Connector back end --><!-- Detail lines for depth --><!-- Device Panel --><!-- TOSLINK Port Cutout --><!-- Inner Optical Port --><!-- Optical Emitter (glowing red light) --><!-- Protective Cover --><!-- Detail Lines for Depth --></g><metadata
+     id="metadata1"><rdf:RDF><cc:Work
+         rdf:about=""><dc:title>Open Connector Graphics</dc:title><dc:date>03/04/2025</dc:date><dc:creator><cc:Agent><dc:title>Wikke Andeweg</dc:title></cc:Agent></dc:creator><dc:rights><cc:Agent><dc:title>Creative Commons Attribution 4.0 International</dc:title></cc:Agent></dc:rights><dc:source>https://github.com/WyzzyMoon/OpenConnectorGraphics</dc:source></cc:Work></rdf:RDF></metadata></svg>

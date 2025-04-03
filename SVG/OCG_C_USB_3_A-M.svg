@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="52.944622"
+   height="219.73343"
+   viewBox="0 0 52.944624 219.73343"
+   xml:space="preserve"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><title
+     id="title1">Open Connector Graphics</title><defs
+     id="defs6"><linearGradient
+       id="linearGradient5590"><stop
+         id="stop5592"
+         offset="0"
+         style="stop-color:#a91616;stop-opacity:1;" /></linearGradient><linearGradient
+       id="linearGradient5660"><stop
+         id="stop5662"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" /></linearGradient><style
+       type="text/css"
+       id="style1">
+	.st0{fill:none;stroke:#000000;stroke-width:7;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
+</style></defs><g
+     id="g2466"
+     transform="matrix(1.3333333,0,0,-1.3333333,2023.6948,2611.0954)"
+     style="display:inline"><path
+   d="m -1481.5868,1926.3329 h -32.7323 v 31.6016 h 32.7323 z"
+   style="fill:#d1d3d4;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.750003;stroke-dasharray:none;stroke-opacity:1"
+   id="path2692"
+   clip-path="none" /><path
+   d="m -1481.5868,1926.3329 h -32.7323 v 31.6016 h 32.7323 z"
+   style="fill:none;stroke:#000000;stroke-width:0.750003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+   id="path2696"
+   clip-path="none" /><path
+   d="m 141.314,406.056 h -9.045 v 7.007 h 9.045 z"
+   style="fill:#005793;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.01687;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+   id="path2698"
+   clip-path="none"
+   transform="matrix(0.73766219,0,0,0.73745819,-1606.6911,1641.6675)" /><path
+   d="m -1486.8488,1941.1172 h -6.6722 v 5.1674 h 6.6722 z"
+   style="fill:#005793;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.750003;stroke-dasharray:none;stroke-opacity:1"
+   id="path2702"
+   clip-path="none" /><path
+   d="m -1486.8488,1941.1172 h -6.6722 v 5.1674 h 6.6722 z"
+   style="fill:none;stroke:#000000;stroke-width:0.750003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+   id="path2706"
+   clip-path="none" /><path
+   d="m -1497.9531,1957.9346 v -5.0737 h 1.9887 v -4.6032 h -1.9887 v -15.2204 h 1.9887 v -6.7043"
+   style="fill:none;stroke:#000000;stroke-width:0.750003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+   id="path2710"
+   clip-path="none" /><path
+   d="m -1478.1105,1925.958 v 0 h -39.6774 v 0 -0.6368 -0.012 -30.8166 l 8.3981,-30.986 h 11.4383 v 0.01 -0.01 h 11.4391 l 8.3981,30.986 v 30.8166 0.012 z"
+   style="fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.999998"
+   id="path2714"
+   clip-path="none" /><path
+   d="m -1502.8859,1887.867 c 0,-0.981 0.288,-2.0327 0.8944,-2.8032 0.4665,-0.5934 1.1945,-1.0334 1.9361,-1.174 0.5745,-0.1094 1.2614,-0.055 1.7295,0.2964 0.7933,0.5957 0.8472,1.7956 1.3032,2.6763 0.4513,0.873 0.4019,0.9566 0.8617,1.0607 0.3776,0.085 0.8244,-0.1861 1.0987,-0.4589 0.2082,-0.2067 0.2971,-0.5145 0.3724,-0.7987 0.058,-0.2173 0.087,-0.4498 0.054,-0.6724 -0.055,-0.3678 -0.1193,-0.804 -0.4088,-1.0373 -0.3343,-0.2697 -1.272,-0.2082 -1.272,-0.2082 v -1.8898 c 0,0 1.4749,-0.1497 2.0722,0.2044 0.4855,0.288 0.7568,0.8693 0.9544,1.3982 0.1724,0.4605 0.2158,0.9757 0.1694,1.465 -0.083,0.8769 -0.3108,1.7834 -0.7918,2.522 -0.3716,0.5699 -0.9133,1.0654 -1.5334,1.3458 -0.4248,0.1922 -1.0152,0.196 -1.3898,0.1793 -0.3746,-0.018 -1.2181,-0.4529 -1.4901,-1.1512 -0.2713,-0.6953 -0.3784,-1.9225 -0.8351,-2.5547 -0.2454,-0.3404 -0.3997,-0.4407 -0.8192,-0.4529 -0.4095,-0.012 -0.9414,0.4126 -1.1747,0.75 -0.2166,0.3138 -0.2394,0.7037 -0.2037,1.0836 0.032,0.348 0.1262,0.8252 0.4165,0.962 0.2895,0.136 0.9232,0.1406 0.9232,0.1406 v 1.7446 c -1.5,0 -1.7082,-0.1595 -2.269,-0.7264 -0.4673,-0.4719 -0.5995,-1.2371 -0.598,-1.9012 m -1.3898,19.0659 c 0,-0.6732 0.427,-1.2408 1.0273,-1.4513 v -2.1672 c 0,-0.6915 0.3823,-1.4149 0.8268,-1.8761 0,-8e-4 0,8e-4 0,0 0.011,-0.01 3.4353,-3.3237 3.4353,-3.3237 0.2098,-0.2614 0.3564,-0.6026 0.3648,-0.9544 v -1.9802 c -0.1307,-0.5501 -0.2759,-1.12 -0.5418,-1.4886 -0.2454,-0.3404 -0.3997,-0.4392 -0.8192,-0.4513 -0.4095,-0.011 -0.9414,0.4133 -1.1747,0.7499 -0.2166,0.3146 -0.2394,0.7022 -0.2037,1.0821 0.032,0.348 0.1262,0.826 0.4165,0.962 0.2895,0.136 0.9232,0.1429 0.9232,0.1429 v 1.7423 c -1.5,0 -1.7082,-0.1595 -2.269,-0.7264 -0.4673,-0.4719 -0.5995,-1.2355 -0.598,-1.8989 0,-0.981 0.2903,-2.0327 0.8966,-2.8039 0.4666,-0.5927 1.1923,-1.035 1.9339,-1.1756 0.5745,-0.1094 1.2614,-0.052 1.7295,0.2987 0.7933,0.5957 0.8472,1.7933 1.3032,2.674 0.4513,0.873 0.4019,0.9582 0.8617,1.0623 0.3776,0.086 0.8244,-0.1877 1.0987,-0.4605 0.2082,-0.2067 0.2971,-0.5145 0.3724,-0.7987 0.058,-0.2173 0.087,-0.4498 0.054,-0.6724 -0.055,-0.3678 -0.1193,-0.804 -0.4088,-1.0373 -0.3343,-0.2697 -1.272,-0.2082 -1.272,-0.2082 v -1.8898 c 0,0 1.4749,-0.1497 2.0722,0.2044 0.4855,0.288 0.7568,0.8693 0.9544,1.3982 0.1724,0.4605 0.2158,0.9757 0.1694,1.465 -0.083,0.8777 -0.3108,1.7834 -0.7918,2.522 -0.3716,0.5699 -0.9133,1.0677 -1.5334,1.3473 -0.4248,0.1922 -1.0152,0.1945 -1.3898,0.1778 -0.1831,-0.01 -0.4772,-0.1163 -0.7637,-0.307 0,1.3442 0,2.7606 0,3.9316 0.01,0.3511 0.155,0.6915 0.3648,0.9521 0,0 3.617,3.2507 3.6283,3.2606 0.6171,0.6398 0.6361,1.307 0.6421,1.6193 v 2.3928 h 1.0274 v 3.0851 h -3.0843 v -3.0851 h 1.0273 v -2.4217 c -0.01,-0.3518 -0.1436,-0.6945 -0.3526,-0.9559 l -3.253,-2.8168 0.01,11.5926 h 1.0281 l -1.5425,2.6724 -1.5425,-2.6724 h 1.0273 v -15.4528 l -3.2394,3.1368 c -0.2089,0.2614 -0.3518,0.6048 -0.3601,0.9566 0,1.4233 7e-4,1.8845 0,2.1961 0.601,0.2105 1.0273,0.7781 1.0273,1.4513 0,0.8526 -0.69,1.5426 -1.5425,1.5426 -0.8526,0 -1.5418,-0.69 -1.5418,-1.5426 z m 1.0494,5.8032 c -0.059,-0.4256 -0.2751,-0.8708 -0.6976,-1.0342 -0.4491,-0.2037 -0.7971,-0.1406 -0.7971,-0.1406 v 0.8123 c 0,0 0.5745,0.1011 0.7462,0.3473 0.307,0.386 0.1421,1.0516 -0.3374,1.2097 -0.4635,0.1884 -0.9741,0.1368 -1.462,0.1276 -0.3898,-0.032 -0.8731,-0.049 -1.101,-0.4232 -0.095,-0.1847 -0.111,-0.4081 -0.071,-0.6087 0.1299,-0.4118 0.2082,-0.4703 0.7363,-0.6238 l -0.012,-0.7561 -3.712,-0.011 c 0,0 0,2.9149 -0.01,2.9734 h 0.7773 l -0.01,-2.0988 h 1.9096 c 0,0 -0.2789,0.2956 -0.3009,0.4658 -0.133,0.2971 -0.1292,0.636 -0.079,0.9514 0.1223,0.484 0.5881,0.7864 1.0539,0.8807 0.5304,0.1284 1.0783,0.1086 1.6185,0.097 0.5069,-0.047 1.0616,-0.1618 1.4073,-0.5691 0.2728,-0.3389 0.3496,-0.6338 0.3465,-1.2113 0,-0.1762 0,-0.2583 -0.011,-0.3867 z"
+   style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.999998"
+   id="path4132"
+   clip-path="none" /><rect
+   style="fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.750001;stroke-dasharray:none"
+   id="rect169"
+   width="12.849434"
+   height="70.460838"
+   x="-1504.7864"
+   y="-1863.8876"
+   transform="scale(1,-1)"
+   clip-path="none" />
+
+
+
+
+
+
+
+
+<style
+   type="text/css"
+   id="style1-5">
+	.st0{fill:none;stroke:#000;stroke-width:2;}
+	.st1{fill:#fff;stroke:#000;stroke-width:2;stroke-linejoin:round;}
+	.st2{font-family:Liberation Sans,Arial;}
+	.st3{font-size:17px;}
+</style>
+
+
+
+
+
+
+
+
+
+
+<!-- Outer cylindrical part --><!-- Inner optical port --><!-- Optical emitter (glowing red light) --><!-- Connector back end --><!-- Detail lines for depth --><!-- Device Panel --><!-- TOSLINK Port Cutout --><!-- Inner Optical Port --><!-- Optical Emitter (glowing red light) --><!-- Protective Cover --><!-- Detail Lines for Depth --></g><metadata
+     id="metadata1"><rdf:RDF><cc:Work
+         rdf:about=""><dc:title>Open Connector Graphics</dc:title><dc:date>03/04/2025</dc:date><dc:creator><cc:Agent><dc:title>Wikke Andeweg</dc:title></cc:Agent></dc:creator><dc:rights><cc:Agent><dc:title>Creative Commons Attribution 4.0 International</dc:title></cc:Agent></dc:rights><dc:source>https://github.com/WyzzyMoon/OpenConnectorGraphics</dc:source></cc:Work></rdf:RDF></metadata></svg>

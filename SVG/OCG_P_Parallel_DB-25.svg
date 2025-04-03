@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="182.0983"
+   height="43.000782"
+   viewBox="0 0 182.0983 43.000783"
+   xml:space="preserve"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><title
+     id="title1">Open Connector Graphics</title><defs
+     id="defs6"><linearGradient
+       id="linearGradient5590"><stop
+         id="stop5592"
+         offset="0"
+         style="stop-color:#a91616;stop-opacity:1;" /></linearGradient><linearGradient
+       id="linearGradient5660"><stop
+         id="stop5662"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" /></linearGradient><style
+       type="text/css"
+       id="style1">
+	.st0{fill:none;stroke:#000000;stroke-width:7;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
+</style></defs><g
+     id="g2466"
+     transform="matrix(1.3333333,0,0,-1.3333333,-2181.1449,2701.1536)"
+     style="display:inline">
+
+
+
+
+
+
+
+
+<style
+   type="text/css"
+   id="style1-5">
+	.st0{fill:none;stroke:#000;stroke-width:2;}
+	.st1{fill:#fff;stroke:#000;stroke-width:2;stroke-linejoin:round;}
+	.st2{font-family:Liberation Sans,Arial;}
+	.st3{font-size:17px;}
+</style>
+
+
+
+
+
+
+
+
+
+
+<path
+   d="m 1772.057,1997.955 c 0,-2.1887 -1.7749,-3.9653 -3.9665,-3.9653 h -127.8898 c -2.191,0 -3.9667,1.7766 -3.9667,3.9653 v 23.57 c 0,2.1908 1.7757,3.9653 3.9667,3.9653 h 127.8904 c 2.1916,0 3.9666,-1.7738 3.9666,-3.9653 v -23.57 z"
+   style="fill:#d1d3d4;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none"
+   id="path2175"
+   clip-path="none" /><ellipse
+   cx="1643.6411"
+   cy="-2009.7406"
+   style="fill:none;stroke:#000000;stroke-width:0.750003;stroke-dasharray:none"
+   id="circle2233"
+   transform="scale(1,-1)"
+   rx="3.3412499"
+   ry="3.3401282"
+   clip-path="none" /><ellipse
+   cx="1764.65"
+   cy="-2009.7406"
+   style="fill:none;stroke:#000000;stroke-width:0.750003;stroke-dasharray:none"
+   id="circle2235"
+   transform="scale(1,-1)"
+   rx="3.3412499"
+   ry="3.3401282"
+   clip-path="none" /><path
+   id="path219"
+   clip-path="none"
+   style="fill:#d1d3d4;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.75;stroke-dasharray:none"
+   d="m 1658.5924,2020.9839 c -1.7216,0 -3.338,-0.7625 -4.4341,-2.0918 -1.0946,-1.3286 -1.5337,-3.0614 -1.2056,-4.752 l 2.0142,-10.3579 c 0.5547,-2.8452 3.0595,-4.9101 5.9575,-4.9101 h 18.0483 10.6817 10.9277 7.1206 10.9278 10.6816 18.0483 c 2.898,0 5.4036,2.0649 5.9576,4.9101 l 2.0156,10.3579 c 0.3281,1.6906 -0.1132,3.4234 -1.2085,4.752 -1.0953,1.3293 -2.711,2.0918 -4.4326,2.0918 h -18.0469 -15.3472 -6.2636 -11.7847 -6.2622 -15.3472 z" /><path
+   id="path221"
+   clip-path="none"
+   style="fill:#a038e7;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.75;stroke-dasharray:none"
+   d="m 1658.629,2019.7168 c -1.3683,0 -2.6535,-0.6041 -3.523,-1.6611 -0.8714,-1.0555 -1.2192,-2.4329 -0.958,-3.7764 l 2.0142,-10.3564 c 0.4462,-2.2927 2.4642,-3.9566 4.7988,-3.9566 h 18.0469 10.6831 10.6802 7.3681 10.6788 10.6831 18.0483 c 2.3339,0 4.3521,1.6639 4.7974,3.9566 l 2.0156,10.3564 c 0.2612,1.3435 -0.089,2.7209 -0.9595,3.7764 -0.8695,1.057 -2.1532,1.6611 -3.5215,1.6611 h -18.0468 -15.3487 -6.0146 -12.0322 -6.0147 -15.3486 z" /><ellipse
+   cx="1660.4102"
+   cy="-2013.4204"
+   style="fill:#000000;stroke:#000000;stroke-width:0.750003;stroke-dasharray:none"
+   id="circle173"
+   transform="scale(1,-1)"
+   rx="1.4808865"
+   ry="1.4803892"
+   clip-path="none" /><ellipse
+   cx="1667.7009"
+   cy="-2013.4204"
+   style="fill:#000000;stroke:#000000;stroke-width:0.750003;stroke-dasharray:none"
+   id="circle174"
+   transform="scale(1,-1)"
+   rx="1.4808865"
+   ry="1.4803892"
+   clip-path="none" /><ellipse
+   cx="1674.9916"
+   cy="-2013.4197"
+   style="fill:#000000;stroke:#000000;stroke-width:0.750003;stroke-dasharray:none"
+   id="circle175"
+   transform="scale(1,-1)"
+   rx="1.4795642"
+   ry="1.4790674"
+   clip-path="none" /><ellipse
+   cx="1682.2804"
+   cy="-2013.4204"
+   style="fill:#000000;stroke:#000000;stroke-width:0.750003;stroke-dasharray:none"
+   id="circle176"
+   transform="scale(1,-1)"
+   rx="1.4808865"
+   ry="1.4803892"
+   clip-path="none" /><ellipse
+   cx="1664.0555"
+   cy="-2006.0581"
+   style="fill:#000000;stroke:#000000;stroke-width:0.750003;stroke-dasharray:none"
+   id="circle177"
+   transform="scale(1,-1)"
+   rx="1.4802254"
+   ry="1.4797283"
+   clip-path="none" /><ellipse
+   cx="1671.3462"
+   cy="-2006.0581"
+   style="fill:#000000;stroke:#000000;stroke-width:0.750003;stroke-dasharray:none"
+   id="circle178"
+   transform="scale(1,-1)"
+   rx="1.4802254"
+   ry="1.4797283"
+   clip-path="none" /><ellipse
+   cx="1678.6343"
+   cy="-2006.0581"
+   style="fill:#000000;stroke:#000000;stroke-width:0.750003;stroke-dasharray:none"
+   id="circle179"
+   transform="scale(1,-1)"
+   rx="1.4802254"
+   ry="1.4797283"
+   clip-path="none" /><path
+   d="m 1685.9257,2007.5378 c 0.8171,0 1.4789,-0.6629 1.4789,-1.4791 0,-0.8168 -0.6618,-1.4803 -1.4789,-1.4803 -0.8191,0 -1.4802,0.6635 -1.4802,1.4803 0,0.8162 0.6611,1.4791 1.4802,1.4791 z"
+   style="fill:#000000;stroke:#000000;stroke-width:0.750003;stroke-dasharray:none"
+   id="path179"
+   clip-path="none" /><ellipse
+   cx="1711.4373"
+   cy="-2013.421"
+   style="fill:#000000;stroke:#000000;stroke-width:0.750003;stroke-dasharray:none"
+   id="circle180"
+   transform="scale(1,-1)"
+   rx="1.4808865"
+   ry="1.4803892"
+   clip-path="none" /><ellipse
+   cx="1704.1472"
+   cy="-2013.421"
+   style="fill:#000000;stroke:#000000;stroke-width:0.750003;stroke-dasharray:none"
+   id="circle181"
+   transform="scale(1,-1)"
+   rx="1.4802254"
+   ry="1.4797283"
+   clip-path="none" /><ellipse
+   cx="1696.8578"
+   cy="-2013.421"
+   style="fill:#000000;stroke:#000000;stroke-width:0.750003;stroke-dasharray:none"
+   id="circle182"
+   transform="scale(1,-1)"
+   rx="1.4808865"
+   ry="1.4803892"
+   clip-path="none" /><ellipse
+   cx="1689.5684"
+   cy="-2013.421"
+   style="fill:#000000;stroke:#000000;stroke-width:0.750003;stroke-dasharray:none"
+   id="circle183"
+   transform="scale(1,-1)"
+   rx="1.4808865"
+   ry="1.4803892"
+   clip-path="none" /><ellipse
+   cx="1707.7919"
+   cy="-2006.0594"
+   style="fill:#000000;stroke:#000000;stroke-width:0.750003;stroke-dasharray:none"
+   id="circle184"
+   transform="scale(1,-1)"
+   rx="1.4808865"
+   ry="1.4803892"
+   clip-path="none" /><ellipse
+   cx="1700.5038"
+   cy="-2006.0594"
+   style="fill:#000000;stroke:#000000;stroke-width:0.750003;stroke-dasharray:none"
+   id="circle185"
+   transform="scale(1,-1)"
+   rx="1.4808865"
+   ry="1.4803892"
+   clip-path="none" /><path
+   d="m 1693.2118,2007.5391 c -0.8165,0 -1.4789,-0.6622 -1.4789,-1.4804 0,-0.8168 0.6624,-1.4797 1.4789,-1.4797 0.8191,0 1.4802,0.6622 1.4802,1.4797 0,0.8182 -0.6611,1.4804 -1.4802,1.4804 z"
+   style="fill:#000000;stroke:#000000;stroke-width:0.750003;stroke-dasharray:none"
+   id="path185"
+   clip-path="none" /><path
+   d="m 1747.8843,2014.9014 c -0.8198,0 -1.4836,-0.6635 -1.4836,-1.481 0,-0.8169 0.6638,-1.4797 1.4836,-1.4797 0.8151,0 1.4776,0.6622 1.4776,1.4797 0,0.8175 -0.6625,1.481 -1.4776,1.481 z"
+   style="fill:#000000;stroke:#000000;stroke-width:0.750003;stroke-dasharray:none"
+   id="path187"
+   clip-path="none" /><ellipse
+   cx="1744.235"
+   cy="-2006.0594"
+   style="fill:#000000;stroke:#000000;stroke-width:0.750003;stroke-dasharray:none"
+   id="circle187"
+   transform="scale(1,-1)"
+   rx="1.4802254"
+   ry="1.4797283"
+   clip-path="none" /><ellipse
+   cx="1718.7261"
+   cy="-2013.4218"
+   style="fill:#000000;stroke:#000000;stroke-width:0.750003;stroke-dasharray:none"
+   id="circle188"
+   transform="scale(1,-1)"
+   rx="1.4808865"
+   ry="1.4803892"
+   clip-path="none" /><path
+   d="m 1726.0134,2014.9014 c 0.8191,0 1.4822,-0.6628 1.4822,-1.4804 0,-0.8162 -0.6631,-1.479 -1.4822,-1.479 -0.8151,0 -1.4789,0.6628 -1.4789,1.479 0,0.8176 0.6638,1.4804 1.4789,1.4804 z"
+   style="fill:#000000;stroke:#000000;stroke-width:0.750003;stroke-dasharray:none"
+   id="path189"
+   clip-path="none" /><path
+   d="m 1733.3022,2014.9021 c 0.8178,0 1.4835,-0.6635 1.4835,-1.4811 0,-0.8168 -0.6657,-1.479 -1.4835,-1.479 -0.8139,0 -1.4783,0.6622 -1.4783,1.479 0,0.8176 0.6644,1.4811 1.4783,1.4811 z"
+   style="fill:#000000;stroke:#000000;stroke-width:0.750003;stroke-dasharray:none"
+   id="path190"
+   clip-path="none" /><ellipse
+   cx="1740.5942"
+   cy="-2013.4218"
+   style="fill:#000000;stroke:#000000;stroke-width:0.750003;stroke-dasharray:none"
+   id="circle190"
+   transform="scale(1,-1)"
+   rx="1.4808865"
+   ry="1.4803892"
+   clip-path="none" /><ellipse
+   cx="1715.0807"
+   cy="-2006.0607"
+   style="fill:#000000;stroke:#000000;stroke-width:0.750003;stroke-dasharray:none"
+   id="circle191"
+   transform="scale(1,-1)"
+   rx="1.4808865"
+   ry="1.4803892"
+   clip-path="none" /><ellipse
+   cx="1722.37"
+   cy="-2006.0607"
+   style="fill:#000000;stroke:#000000;stroke-width:0.750003;stroke-dasharray:none"
+   id="circle192"
+   transform="scale(1,-1)"
+   rx="1.4808865"
+   ry="1.4803892"
+   clip-path="none" /><ellipse
+   cx="1729.6581"
+   cy="-2006.0607"
+   style="fill:#000000;stroke:#000000;stroke-width:0.750003;stroke-dasharray:none"
+   id="circle193"
+   transform="scale(1,-1)"
+   rx="1.4808865"
+   ry="1.4803892"
+   clip-path="none" /><path
+   d="m 1736.9508,2007.5411 c 0.8165,0 1.4776,-0.6635 1.4776,-1.4804 0,-0.8168 -0.6611,-1.4804 -1.4776,-1.4804 -0.8191,0 -1.4809,0.6636 -1.4809,1.4804 0,0.8169 0.6618,1.4804 1.4809,1.4804 z"
+   style="fill:#000000;stroke:#000000;stroke-width:0.750003;stroke-dasharray:none"
+   id="path193"
+   clip-path="none" /><!-- Outer cylindrical part --><!-- Inner optical port --><!-- Optical emitter (glowing red light) --><!-- Connector back end --><!-- Detail lines for depth --><!-- Device Panel --><!-- TOSLINK Port Cutout --><!-- Inner Optical Port --><!-- Optical Emitter (glowing red light) --><!-- Protective Cover --><!-- Detail Lines for Depth --></g><metadata
+     id="metadata1"><rdf:RDF><cc:Work
+         rdf:about=""><dc:title>Open Connector Graphics</dc:title><dc:date>03/04/2025</dc:date><dc:creator><cc:Agent><dc:title>Wikke Andeweg</dc:title></cc:Agent></dc:creator><dc:rights><cc:Agent><dc:title>Creative Commons Attribution 4.0 International</dc:title></cc:Agent></dc:rights><dc:source>https://github.com/WyzzyMoon/OpenConnectorGraphics</dc:source></cc:Work></rdf:RDF></metadata></svg>

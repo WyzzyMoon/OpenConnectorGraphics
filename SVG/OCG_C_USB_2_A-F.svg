@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="56.692921"
+   height="219.76451"
+   viewBox="0 0 56.692921 219.76451"
+   xml:space="preserve"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><title
+     id="title1">Open Connector Graphics</title><defs
+     id="defs6"><linearGradient
+       id="linearGradient5590"><stop
+         id="stop5592"
+         offset="0"
+         style="stop-color:#a91616;stop-opacity:1;" /></linearGradient><linearGradient
+       id="linearGradient5660"><stop
+         id="stop5662"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" /></linearGradient><style
+       type="text/css"
+       id="style1">
+	.st0{fill:none;stroke:#000000;stroke-width:7;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
+</style></defs><g
+     id="g2466"
+     transform="matrix(1.3333333,0,0,-1.3333333,2294.2923,2611.078)"
+     style="display:inline"><path
+   d="m -1678.1995,1958.3086 h -3.6926 -35.1372 -3.6899 v -42.5197 l 3.6637,-3.6637 h 0.03 v -10.512 l 7.4364,-27.4376 h 10.1285 v 0 0 h 10.1285 l 7.4371,27.4376 v 10.512 0 l 3.6637,3.6637 h 0.026 z"
+   style="fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+   id="path2810"
+   clip-path="none" /><path
+   d="m -1699.4588,1918.5414 -1.5381,-2.6632 h 1.0974 v -13.6138 l -2.8004,2.651 c -0.181,0.2254 -0.3082,0.5208 -0.3149,0.8243 0,1.2279 0,1.9573 -7e-4,2.2264 0.5181,0.1817 0.8929,0.6709 0.8929,1.2516 0,0.7354 -0.5969,1.3322 -1.3323,1.3322 -0.7361,0 -1.3322,-0.5968 -1.3322,-1.3322 0,-0.5807 0.3741,-1.0699 0.8922,-1.2516 l -7e-4,-2.2002 c 0,-0.5961 0.3277,-1.2212 0.7105,-1.6189 -0.011,0.011 -0.023,0.022 7e-4,-6e-4 0.01,-0.01 2.9707,-2.8126 2.9707,-2.8126 0.1803,-0.2247 0.3068,-0.5194 0.3142,-0.8229 v -1.5401 c -1.0174,-0.2046 -1.7844,-1.1029 -1.7844,-2.1801 0,-1.2286 0.9965,-2.2251 2.2244,-2.2251 1.2287,0 2.2245,0.9965 2.2245,2.2251 0,1.0779 -0.7671,1.9762 -1.7851,2.1801 v 1.5132 c 0,0 0,0.01 0,0.011 v 3.3468 c 0.01,0.3028 0.1339,0.5975 0.3149,0.8223 0,0 2.9612,2.8031 2.9706,2.8118 0.024,0.022 0.012,0.011 0,0 0.3836,0.3977 0.7106,1.0227 0.7106,1.6196 l -7e-4,2.1201 h 0.8936 v 2.6639 h -2.6639 v -2.6639 h 0.8916 c 0,0 -7e-4,-0.5584 -7e-4,-2.1464 -0.01,-0.3034 -0.1339,-0.5988 -0.3149,-0.8242 l -2.8011,-2.6517 v 10.2845 h 1.0994 z"
+   style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+   id="path4120"
+   clip-path="none" /><rect
+   style="fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.750001;stroke-dasharray:none"
+   id="rect172"
+   width="12.849434"
+   height="81.640297"
+   x="-1705.8842"
+   y="-1875.0662"
+   transform="scale(1,-1)"
+   clip-path="none" />
+
+
+
+
+
+
+
+
+<style
+   type="text/css"
+   id="style1-5">
+	.st0{fill:none;stroke:#000;stroke-width:2;}
+	.st1{fill:#fff;stroke:#000;stroke-width:2;stroke-linejoin:round;}
+	.st2{font-family:Liberation Sans,Arial;}
+	.st3{font-size:17px;}
+</style>
+
+
+
+
+
+
+
+
+
+
+<!-- Outer cylindrical part --><!-- Inner optical port --><!-- Optical emitter (glowing red light) --><!-- Connector back end --><!-- Detail lines for depth --><!-- Device Panel --><!-- TOSLINK Port Cutout --><!-- Inner Optical Port --><!-- Optical Emitter (glowing red light) --><!-- Protective Cover --><!-- Detail Lines for Depth --></g><metadata
+     id="metadata1"><rdf:RDF><cc:Work
+         rdf:about=""><dc:title>Open Connector Graphics</dc:title><dc:date>03/04/2025</dc:date><dc:creator><cc:Agent><dc:title>Wikke Andeweg</dc:title></cc:Agent></dc:creator><dc:rights><cc:Agent><dc:title>Creative Commons Attribution 4.0 International</dc:title></cc:Agent></dc:rights><dc:source>https://github.com/WyzzyMoon/OpenConnectorGraphics</dc:source></cc:Work></rdf:RDF></metadata></svg>

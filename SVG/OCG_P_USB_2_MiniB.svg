@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="26.515915"
+   height="11.102729"
+   viewBox="0 0 26.515916 11.102729"
+   xml:space="preserve"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><title
+     id="title1">Open Connector Graphics</title><defs
+     id="defs6"><linearGradient
+       id="linearGradient5590"><stop
+         id="stop5592"
+         offset="0"
+         style="stop-color:#a91616;stop-opacity:1;" /></linearGradient><linearGradient
+       id="linearGradient5660"><stop
+         id="stop5662"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" /></linearGradient><style
+       type="text/css"
+       id="style1">
+	.st0{fill:none;stroke:#000000;stroke-width:7;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
+</style></defs><g
+     id="g2466"
+     transform="matrix(1.3333333,0,0,-1.3333333,1817.9585,2669.2556)"
+     style="display:inline"><path
+   d="m -1362.8917,1994.0939 h 18.7881 v 3.8601 l -1.8043,1.6575 v 1.851 h -15.0842 v -2.0358 l -1.9521,-1.7939 z"
+   style="fill:#939598;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.999995"
+   id="path2514"
+   clip-path="none" /><path
+   d="m -1362.8917,1994.0939 h 18.7881 v 3.8601 l -1.8043,1.6575 v 1.851 h -15.0842 v -2.0358 l -1.9521,-1.7939 z"
+   style="fill:none;stroke:#000000;stroke-width:0.999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+   id="path2518"
+   clip-path="none" /><rect
+   style="fill:#414142;fill-opacity:1;stroke:#000000;stroke-width:0.75;stroke-dasharray:none"
+   id="rect13"
+   width="19.147903"
+   height="1.2809731"
+   x="-1363.1049"
+   y="-1995.2706"
+   transform="scale(1,-1)"
+   clip-path="none" /><path
+   d="m 492.262,478.099 h -1.667 v 1.733 h 1.667 z"
+   style="fill:#f9d640;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.645918;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+   id="path2520"
+   clip-path="none"
+   transform="matrix(0.80767387,0,0,0.74190602,-1756.6307,1640.5567)" /><path
+   d="m 496.073,478.099 h -1.667 v 1.733 h 1.667 z"
+   style="fill:#f9d640;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.645918;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+   id="path2522"
+   clip-path="none"
+   transform="matrix(0.80767387,0,0,0.74190602,-1756.6307,1640.5567)" /><path
+   d="m 499.885,478.099 h -1.667 v 1.733 h 1.667 z"
+   style="fill:#f9d640;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.645918;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+   id="path2524"
+   clip-path="none"
+   transform="matrix(0.80767387,0,0,0.74190602,-1756.6307,1640.5567)" /><path
+   d="m 503.696,478.099 h -1.667 v 1.733 h 1.667 z"
+   style="fill:#f9d640;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.645918;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+   id="path2526"
+   clip-path="none"
+   transform="matrix(0.80767387,0,0,0.74190602,-1756.6307,1640.5567)" /><path
+   d="m 507.507,478.099 h -1.667 v 1.733 h 1.667 z"
+   style="fill:#f9d640;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.645918;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+   id="path2528"
+   clip-path="none"
+   transform="matrix(0.80767387,0,0,0.74190602,-1756.6307,1640.5567)" />
+
+
+
+
+
+
+
+
+<style
+   type="text/css"
+   id="style1-5">
+	.st0{fill:none;stroke:#000;stroke-width:2;}
+	.st1{fill:#fff;stroke:#000;stroke-width:2;stroke-linejoin:round;}
+	.st2{font-family:Liberation Sans,Arial;}
+	.st3{font-size:17px;}
+</style>
+
+
+
+
+
+
+
+
+
+
+<!-- Outer cylindrical part --><!-- Inner optical port --><!-- Optical emitter (glowing red light) --><!-- Connector back end --><!-- Detail lines for depth --><!-- Device Panel --><!-- TOSLINK Port Cutout --><!-- Inner Optical Port --><!-- Optical Emitter (glowing red light) --><!-- Protective Cover --><!-- Detail Lines for Depth --></g><metadata
+     id="metadata1"><rdf:RDF><cc:Work
+         rdf:about=""><dc:title>Open Connector Graphics</dc:title><dc:date>03/04/2025</dc:date><dc:creator><cc:Agent><dc:title>Wikke Andeweg</dc:title></cc:Agent></dc:creator><dc:rights><cc:Agent><dc:title>Creative Commons Attribution 4.0 International</dc:title></cc:Agent></dc:rights><dc:source>https://github.com/WyzzyMoon/OpenConnectorGraphics</dc:source></cc:Work></rdf:RDF></metadata></svg>
